@@ -57,12 +57,4 @@ SELECT * FROM employee;
 - Generate payroll for Employee ID 101, Month 10, Year 2026.
 - Expected net salary: ₹39,000.
 
-## Phase 2 Screenshots
-- Oracle tables and SQL queries.
-- Application dashboard and six modules.
-- Employee insertion and database verification.
-- Payroll result and validation errors.
-- JDBC source code.
 
-## Note
-This is an educational demo. Authentication is not implemented. Use fictional data and run locally only.
